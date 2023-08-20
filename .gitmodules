@@ -1,0 +1,3 @@
+[submodule "WeatherApp-v2-Server"]
+	path = WeatherApp-v2-Server
+	url = https://github.com/Shahed1998/WeatherApp-v2-Server.git
